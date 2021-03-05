@@ -93,7 +93,7 @@ WSGI_APPLICATION = 'django_webapp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'cloudbrain-db',
+        'NAME': 'vmdb_development',
         'USER': 'root',
         'PASSWORD': 'smartvm',
         'HOST': '192.168.1.87',
