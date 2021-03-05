@@ -93,11 +93,11 @@ WSGI_APPLICATION = 'django_webapp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'pgdb',
-        'USER': 'postgres',
+        'NAME': 'cloudbrain-db',
+        'USER': 'root',
         'PASSWORD': 'anshdb',
-        'HOST': '127.0.0.1',
-        'PORT': '5454'
+        'HOST': '192.168.1.87',
+        'PORT': '5432'
 
     }
 }
