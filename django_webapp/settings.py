@@ -95,7 +95,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'cloudbrain-db',
         'USER': 'root',
-        'PASSWORD': 'anshdb',
+        'PASSWORD': 'smartvm',
         'HOST': '192.168.1.87',
         'PORT': '5432'
 
