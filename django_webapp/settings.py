@@ -96,7 +96,7 @@ DATABASES = {
         'NAME': 'pgdb',
         'USER': 'postgres',
         'PASSWORD': 'anshdb',
-        'HOST': '192.168.0.211',
+        'HOST': '127.0.0.1',
         'PORT': '5454'
 
     }
