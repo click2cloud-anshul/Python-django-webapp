@@ -94,10 +94,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'vmdb_development',
-        'USER': 'root',
-        'PASSWORD': 'smartvm',
-        'HOST': '192.168.1.87',
-        'PORT': '5432'
+        'USER': 'root1',
+        'PASSWORD': 'ROOT#123',
+        'HOST': 'pgm-1udko2w2xv16a58tuo.pg.rds.aliyuncs.com',
+        'PORT': '1921'
 
     }
 }
