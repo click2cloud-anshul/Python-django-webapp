@@ -93,7 +93,7 @@ WSGI_APPLICATION = 'django_webapp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
+        'NAME': 'pgdb',
         'USER': 'postgres',
         'PASSWORD': 'anshdb',
         'HOST': '192.168.0.211',
