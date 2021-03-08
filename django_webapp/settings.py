@@ -96,7 +96,7 @@ DATABASES = {
         'NAME': 'vmdb_development',
         'USER': 'root1',
         'PASSWORD': 'ROOT#123',
-        'HOST': 'pgm-1udko2w2xv16a58tuo.pg.rds.aliyuncs.com',
+        'HOST': 'pgm-1udwjf5kf201ujpr14810.pg.rds.aliyuncs.com',
         'PORT': '1921'
 
     }
